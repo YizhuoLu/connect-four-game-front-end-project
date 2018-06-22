@@ -1,5 +1,5 @@
 # connect-four-game-front-end-project
-An web page checkerboard connection game using HTML, CSS, jQuery, JavaScript (Jquery and JavaScript play the main role in implementing all the function), Bootstrap.
+An web page checkerboard connection game using HTML, CSS, jQuery, JavaScript (Jquery and JavaScript play the main role in implementing all the functions), Bootstrap.
 
 
 
